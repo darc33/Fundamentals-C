@@ -1,0 +1,1 @@
+Repository with some fundamentals examples in C
